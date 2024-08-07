@@ -1162,8 +1162,12 @@
     <Content Include="Views\Web.config" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Accountant\GetSelfSalarySlipsAsyncAG.cshtml" />
     <Content Include="Views\Accountant\ViewSalarySlipAsyncAG.cshtml" />
+=======
+    <Content Include="Views\Accountant\_PurchaseListAsyncVP.cshtml" />
+>>>>>>> 4909f8885d1c69a47f3544ca2beb564852974bc3
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
